@@ -1,24 +1,28 @@
 [submodule "instance"]
 	path = instance
-	url = https://github.com/ZakStar17/ash-examples.git
+	url = https://github.com/zzstar17/ash-examples.git
 	branch = instance
 [submodule "logical-device"]
 	path = device
-	url = https://github.com/ZakStar17/ash-examples.git
+	url = https://github.com/zzstar17/ash-examples.git
 	branch = logical-device
 [submodule "clear-image"]
 	path = clear_image
-	url = https://github.com/ZakStar17/ash-examples.git
+	url = https://github.com/zzstar17/ash-examples.git
 	branch = clear-image
 [submodule "mandelbrot"]
 	path = mandelbrot
-	url = https://github.com/ZakStar17/ash-examples.git
+	url = https://github.com/zzstar17/ash-examples.git
 	branch = mandelbrot
 [submodule "triangle-image"]
 	path = triangle_image
-	url = https://github.com/ZakStar17/ash-examples.git
+	url = https://github.com/zzstar17/ash-examples.git
 	branch = triangle-image
 [submodule "bouncy-ferris"]
 	path = bouncy_ferris
-	url = https://github.com/ZakStar17/ash-examples.git
-	branch = new_bouncy-ferris
+	url = https://github.com/zzstar17/ash-examples.git
+	branch = separate_render_target-bouncy_ferris-new_allocator
+[submodule "instance-draw"]
+	path = instance_draw
+	url = https://github.com/zzstar17/ash-examples.git
+	branch = instance-draw
